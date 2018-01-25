@@ -26,4 +26,7 @@ The cost function is calculated using the squared error mean and the Adam Optimi
 
 The model is capable of predicting the prices for each of the video games in the test dataset based on the inputs present in the test dataset. The model achieved an approximate accuracy of around 96%.
 
+## Information
+There are two py files stored in the repository. One is NN_TensorFlow_Training_Model in which the model is trained and saved on the local machine and the other is NN_TensorFLow_Reload_Model which reloads the saved model and predicts the actual earnings of the video game.
+
  

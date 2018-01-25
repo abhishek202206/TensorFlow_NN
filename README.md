@@ -1,7 +1,7 @@
 # TensorFlow_NN
-Implementation of 3 layer Neural Network Model using TensorFLow
+Implementation of 3 layer Neural Network Model using TensorFLow. This example can be used for implementing Neural Network Model.
 
-# Problem Description
+## Problem Description
 This is a Tutorial for understanding the implementation of Basic three layer of Neural Network Model for prediction the prices of a Video Game Prices. The Training Dataset has the following attributes:
   * Critics Ratings
   * is_action

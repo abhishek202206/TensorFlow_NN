@@ -3,16 +3,16 @@ Implementation of 3 layer Neural Network Model using TensorFLow
 
 # Problem Description
 This is a Tutorial for understanding the implementation of Basic three layer of Neural Network Model for prediction the prices of a Video Game Prices. The Training Dataset has the following attributes:
-  1.Critics Ratings
-  2. is_action
-  3. is_exclusive_to_us
-  4. is_portable
-  5. is_role_playing
-  6. is_sequel
-  7. is_sports
-  8. suitable_for_kids
-  9. Unit Price
-  10. Total Earning
+  * Critics Ratings
+  * is_action
+  * is_exclusive_to_us
+  * is_portable
+  * is_role_playing
+  * is_sequel
+  * is_sports
+  * suitable_for_kids
+  * Unit Price
+  * Total Earning
 
 Variable X is defined which has all the attributes from the dataset except the Total Earning attribute. Variable Y stores the total earning attribute. A three layer Neural Network is defined using TensorFLow. The variables are then normalised using MinMax  Scalar function to a range between 0-1.
 
